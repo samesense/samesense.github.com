@@ -11,11 +11,11 @@ owner:
   avatar:         mugshot-001.jpg
   bio:            "Computational biologist at a children's hospital"
   github:         samesense
-  linkedin:       prakharsrivastav
+  linkedin:       perry-evans
 #  twitter:	  @oncolytic
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:  UA-40692332-1
+#google_analytics:  UA-40692332-1
 
 # Links to include in top navigation
 # For external links add external: true
@@ -28,7 +28,7 @@ links:
     url: /projects/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Riyadh
+timezone:    America/New_York
 future:      true
 highligher:    true
 markdown:    kramdown
