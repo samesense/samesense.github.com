@@ -1,18 +1,19 @@
-title:            samesense blog
+title:            cat /dev/null
 tagline:          A short tagline
-description:      A web log about my journey through the trenches of computational biology
+description:      A web log about my journey through the trenches of software development 
 #url:              http://prakhar1989.github.io
 #url:              http://localhost:4000
-url:              http://samesense.github.io/
+url:              http://prakhar.me
 
 # Owner/author information
 owner:
-  name:           Perry Evans
+  name:           Prakhar Srivastav
   avatar:         mugshot-001.jpg
-  bio:            "Computational biologist at a children's hospital"
-  github:         samesense
+  bio:            "Hacker, Geek, Pythonista,Vim-addict."
+  email:          prakhar1989@gmail.com
+  github:         prakhar1989
   linkedin:       prakharsrivastav
-  twitter:	  @oncolytic
+  lastfm:         krat0sprakhar
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:  UA-40692332-1
